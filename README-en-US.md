@@ -8,7 +8,7 @@ Access premium features of certain software<br>
 ## Important Notes
 - This module is completely free.
 - The module is not universal; you need to download the corresponding compatible version for the module's features to work properly.
-- Official Telegram channel: https://t.me/hookforvip
+- Official Telegram channel: [https://t.me/bdpandown](https://t.me/bdpandown)
 - For adaptations to new apps, please join the Telegram channel.
 
 ## Supported Applications
