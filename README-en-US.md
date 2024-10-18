@@ -1,7 +1,7 @@
 # Quick Connect Cracking
 Access premium features of certain software<br>
 
-Chinese | [English](https://github.com/ZTXBOSS666/com.klpj.application/edit/main/README-en-US.md)
+Chinese | [English](https://github.com/ZTXBOSS666/com.klpj.application/blob/main/README-en-US.md)
 
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.wye4.hookforvip/total)
 
