@@ -1,7 +1,7 @@
 # 快连破解
 获取部分软件会员<br>
 
-中文|[English](https://github.com/Xposed-Modules-Repo/com.wye4.hookforvip/blob/main/README-en-US.md)
+中文|[English](https://github.com/ZTXBOSS666/com.klpj.application/blob/main/README-en-US.md)
 
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.wye4.hookforvip/total)
 ## 须知
